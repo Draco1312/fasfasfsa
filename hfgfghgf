@@ -16,13 +16,13 @@ do
 	end
 
 	Library = {
-Accent = Color3.fromRGB(0, 102, 255) -- Blue Accent
-Inline = Color3.fromRGB(0, 76, 153) -- Darker Blue Inline
-Background = Color3.fromRGB(0, 51, 102) -- Deep Blue Background
-Text = Color3.fromRGB(255, 255, 255) -- White Text
-TextInactive = Color3.fromRGB(200, 200, 200) -- Light Gray Inactive Text
-Border = Color3.fromRGB(43, 89, 117) -- Blueish Border
-Risky = Color3.fromRGB(255, 0, 0) -- Red Risky Color
+                Accent = Color3.fromRGB(0, 102, 255) -- Blue Accent
+                Inline = Color3.fromRGB(0, 76, 153) -- Darker Blue Inline
+                Background = Color3.fromRGB(0, 51, 102) -- Deep Blue Background
+                Text = Color3.fromRGB(255, 255, 255) -- White Text
+                TextInactive = Color3.fromRGB(200, 200, 200) -- Light Gray Inactive Text
+                Border = Color3.fromRGB(43, 89, 117) -- Blueish Border
+                Risky = Color3.fromRGB(255, 0, 0) -- Red Risky Color
 
 
 		FolderName = "Fishy";
